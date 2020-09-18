@@ -21,4 +21,4 @@ Francisk Skorina Gomel State University, Faculty of Law
 
 ####Languages
 
-*English*  А2-elementary
+English  А2-elementary
